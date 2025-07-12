@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap:
-http://george0488.github.io/BROTHERS-MARKET/sitemap.xml
+https://george0488.github.io/BROTHERS-MARKET/sitemap.xml
